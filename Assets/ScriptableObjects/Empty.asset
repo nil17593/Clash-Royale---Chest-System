@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14c523527ef8124459707a3ff84f3c86, type: 3}
+  m_Name: Empty
+  m_EditorClassIdentifier: 
+  chesttype: 0
+  minCoins: 0
+  maxCoins: 0
+  minGems: 0
+  maxGems: 0
+  timeToUnlockChest: 0
+  chestPrefab: {fileID: 3643621487339583310, guid: c7f9109e7f0b80148945dc52c1d6aac5,
+    type: 3}
