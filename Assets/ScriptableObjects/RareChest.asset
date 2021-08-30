@@ -18,5 +18,5 @@ MonoBehaviour:
   minGems: 20
   maxGems: 40
   timeToUnlockChest: 1800
-  chestPrefab: {fileID: 2087657400120841435, guid: 13990e0bdff5ed84690cb3b6b76150ab,
+  chestPrefab: {fileID: 8065738786286314957, guid: 13990e0bdff5ed84690cb3b6b76150ab,
     type: 3}
