@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: ChestScriptableObjectList
   m_EditorClassIdentifier: Assembly-CSharp::ChestScriptableObjectList
-  chest:
-  - {fileID: 11400000, guid: f450d0c5f91c6714e9d4da9a562c283f, type: 2}
-  - {fileID: 11400000, guid: a9e13d11d4c44ef48a0b601cf0996702, type: 2}
+  chests:
   - {fileID: 11400000, guid: 159a8adb59a04bb4b9ce4dc3011c9189, type: 2}
-  - {fileID: 11400000, guid: 7d314f4cb7c66044684d9fca939eb78a, type: 2}
+  - {fileID: 11400000, guid: f450d0c5f91c6714e9d4da9a562c283f, type: 2}
   - {fileID: 11400000, guid: 79af0c893c651b34da263330603b5f6e, type: 2}
+  - {fileID: 11400000, guid: 4d21e9904c30fae4dacd52b2e06822f9, type: 2}
+  - {fileID: 11400000, guid: 373c3f2b1fa628643b633952c13b8839, type: 2}

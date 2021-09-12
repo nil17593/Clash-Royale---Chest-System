@@ -12,11 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14c523527ef8124459707a3ff84f3c86, type: 3}
   m_Name: CommonChest
   m_EditorClassIdentifier: 
-  chesttype: 1
+  chestType: Common
   minCoins: 100
   maxCoins: 200
   minGems: 10
   maxGems: 20
   timeToUnlockChest: 900
-  chestPrefab: {fileID: 6843048541728068293, guid: 03c05e48bca36714783f4b65ee055268,
-    type: 3}

@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 14c523527ef8124459707a3ff84f3c86, type: 3}
-  m_Name: Empty
+  m_Name: Epic
   m_EditorClassIdentifier: 
-  chestType: Empty
-  minCoins: 0
-  maxCoins: 0
-  minGems: 0
-  maxGems: 0
-  timeToUnlockChest: 0
+  chestType: Epic
+  minCoins: 600
+  maxCoins: 800
+  minGems: 45
+  maxGems: 60
+  timeToUnlockChest: 3600
